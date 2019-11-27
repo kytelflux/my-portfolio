@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kytelflux/kytelflux.github.io/static/css/main.4d8ce256.chunk.css",
+    "main.js": "/kytelflux/kytelflux.github.io/static/js/main.da3bf4dd.chunk.js",
+    "main.js.map": "/kytelflux/kytelflux.github.io/static/js/main.da3bf4dd.chunk.js.map",
+    "runtime-main.js": "/kytelflux/kytelflux.github.io/static/js/runtime-main.9dd7515e.js",
+    "runtime-main.js.map": "/kytelflux/kytelflux.github.io/static/js/runtime-main.9dd7515e.js.map",
+    "static/js/2.ccb790eb.chunk.js": "/kytelflux/kytelflux.github.io/static/js/2.ccb790eb.chunk.js",
+    "static/js/2.ccb790eb.chunk.js.map": "/kytelflux/kytelflux.github.io/static/js/2.ccb790eb.chunk.js.map",
+    "index.html": "/kytelflux/kytelflux.github.io/index.html",
+    "precache-manifest.cad90e591c97922f0f41c9140126a413.js": "/kytelflux/kytelflux.github.io/precache-manifest.cad90e591c97922f0f41c9140126a413.js",
+    "service-worker.js": "/kytelflux/kytelflux.github.io/service-worker.js",
+    "static/css/main.4d8ce256.chunk.css.map": "/kytelflux/kytelflux.github.io/static/css/main.4d8ce256.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dd7515e.js",
+    "static/js/2.ccb790eb.chunk.js",
+    "static/css/main.4d8ce256.chunk.css",
+    "static/js/main.da3bf4dd.chunk.js"
+  ]
+}
